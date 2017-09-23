@@ -4,7 +4,7 @@ A baseline installation of a Linux distribution on a virtual machine prepared to
 
 
 ### Setup:
-  - IP address and SSH port: 45.76.69.91 -i ~/.ssh/graderCode -p 2200
+  - IP address and SSH port: 45.76.69.91 -p 2200
   - URL: 45.76.69.91
   - The software installed for this project include: Python3, Flask, Postgres, Nginx, and Gunicorn.
   - These are the main third-party resources I used to complete this project:
